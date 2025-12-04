@@ -59,54 +59,12 @@ const stiwar_asprilla = {
 </div>
 
 ---
----
-
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-<a href="https://github.com/Stiwar9816/skeleton-nest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stiwar9816&repo=skeleton-nest&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Stiwar9816/jsconf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stiwar9816&repo=jsconf&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Stiwar9816/CodersFree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stiwar9816&repo=CodersFree&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Stiwar9816/ia-talentotech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stiwar9816&repo=ia-talentotech&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🔧 [skeleton-nest](https://github.com/Stiwar9816/skeleton-nest) | Base project con autenticación, GraphQL y PostgreSQL | NestJS, TypeScript, GraphQL |
-| 🌐 [jsconf](https://github.com/Stiwar9816/jsconf) | Website oficial JsconfCO 2019 | JavaScript, HTML, CSS |
-| 📚 [CodersFree](https://github.com/Stiwar9816/CodersFree) | Curso completo de Laravel 8 | PHP, Laravel |
-| 🤖 [ia-talentotech](https://github.com/Stiwar9816/ia-talentotech) | Proyectos de IA y Machine Learning | Python, Jupyter |
-
----
 
 ## 📊 GitHub Stats
 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stiwar9816&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Logros GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stiwar9816&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
